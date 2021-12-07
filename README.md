@@ -8,4 +8,4 @@ December 8th, 2021 4-5pm CST
 
 ### Contact me
 
-rothmark@oregonstate.edu
+rothmark [at] oregonstate.edu
