@@ -6,6 +6,12 @@ December 8th, 2021 4-5pm CST
 
 [ICML Workshop 2021](https://www.climatechange.ai/papers/icml2021/83.html)
 
+### Recording and Slides
+
+[Recording](https://media.oregonstate.edu/media/t/1_ryv90ig1)
+
+[Slides](https://github.com/roth-mh/onTheRole.github.io/blob/main/masters-pres.pdf)
+
 ### Contact me
 
 rothmark [at] oregonstate.edu
